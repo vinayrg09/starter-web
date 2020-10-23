@@ -3,6 +3,6 @@
 New project
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample purpose updated here
 
 ##Deployment
