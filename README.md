@@ -1,6 +1,6 @@
-# Starter Web Project
+# Starter Web Project 
 
-New project
+New project (Web)
 ## Purpose
 
 Sample purpose updated here
@@ -8,3 +8,5 @@ Sample purpose updated here
 ##Deployment
 
 Deployment in coming weeks
+
+Date1: 10/10/20
