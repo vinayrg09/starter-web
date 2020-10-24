@@ -10,3 +10,7 @@ Sample purpose updated here
 Deployment in coming weeks
 
 Date1: 10/10/20
+
+### Copyright
+
+Copyright reserved
