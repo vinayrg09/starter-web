@@ -11,5 +11,6 @@ Deployment in coming weeks
 
 Date1: 10/10/20
 
-###Copyright
-Master file updates
+### Copyright
+
+Copyright reserved
