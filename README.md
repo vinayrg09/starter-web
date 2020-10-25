@@ -13,4 +13,4 @@ Date1: 10/10/20
 
 ### Copyright
 
-Copyright reserved
+All rights reserved
