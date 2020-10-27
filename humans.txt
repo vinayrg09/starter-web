@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-Team of 11
+Team of 10
 
     <name> -- <role> -- <twitter>
 
